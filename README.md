@@ -71,8 +71,6 @@ Researching and developing generative models for time series data, with the trai
   <img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/GENERATIVE%20AI-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TIME%20SERIES-1565C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EXPLAINABLE%20AI%20(XAI)-00897B?style=for-the-badge" />
@@ -111,13 +109,6 @@ Researching and developing generative models for time series data, with the trai
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=linho22w&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linho22w&layout=compact&hide_border=true" />
-</p>
 
 ## 📫 Let's Connect
 
