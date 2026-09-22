@@ -22,7 +22,7 @@ pamorim@utad:~$ ./whoami.sh
   [ok]  role ............................. MSc Computer Engineering Student
   [ok]  focus ............................ Artificial Intelligence & Machine Learning
   [ok]  also builds ...................... backend systems & systems integration
-  [ok]  aiming for ........................ Data Science / AI Engineering / BI
+  [ok]  aiming for ....................... Data Science / AI Engineering / BI
   [..]  status ........................... writing my MSc dissertation
 ```
 
@@ -54,6 +54,14 @@ Researching and developing generative models for time series data, with the trai
 <p align="center"><b>Tools & OS</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux" />
+</p>
+
+<p align="center"><b>Data & Analytics</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge" />
 </p>
 
 <p align="center">
