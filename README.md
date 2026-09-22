@@ -64,6 +64,8 @@ Researching and developing generative models for time series data, with the trai
   <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge" />
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-2496ED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge" />
