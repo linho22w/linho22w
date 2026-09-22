@@ -14,10 +14,11 @@
   </a>
 </p>
 
-```
-paulo@utad:~$ ./whoami.sh
+```console
+pamorim@utad:~$ ./whoami.sh
 
   [ok]  name ............................. Paulo Amorim
+  [ok]  location.......................... Portugal, waiting for the model to finish training
   [ok]  role ............................. MSc Computer Engineering Student
   [ok]  focus ............................ Artificial Intelligence & Machine Learning
   [ok]  also builds ...................... backend systems & systems integration
