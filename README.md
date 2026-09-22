@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paulo Amorim 👋</h1>
-<h3 align="center">MSc Informatics Engineering Student · AI &amp; Machine Learning</h3>
+<h3 align="center">MSc Computer Engineering Student · AI &amp; Machine Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Writing+my+MSc+dissertation+on+generative+AI;Generative+models+for+time+series+%2B+HPC;Turning+data+into+models+that+actually+generalize" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 paulo@utad:~$ ./whoami.sh
 
   [ok]  name ............................. Paulo Amorim
-  [ok]  role ............................. MSc Informatics Engineering Student
+  [ok]  role ............................. MSc Computer Engineering Student
   [ok]  focus ............................ Artificial Intelligence & Machine Learning
   [ok]  also builds ...................... backend systems & systems integration
   [..]  status ........................... writing my MSc dissertation
@@ -26,9 +26,9 @@ paulo@utad:~$ ./whoami.sh
 
 ## 🧭 About Me
 
-I'm an MSc student in Informatics Engineering, currently in the final stretch of my degree: writing my dissertation. My main interest is **AI/ML applied to real problems** — from medical imaging to generative modelling — but I also enjoy backend development and systems integration, which is where a good part of my academic project work has been.
+I'm an MSc student in Informatics Engineering, currently in the final stretch of my degree writing my dissertation. My main interest is **AI/ML applied to real problems**, from medical imaging to generative modelling, but I also enjoy backend development and systems integration, which is where a good part of my academic project work has been.
 
-I like projects that go from "we have messy data / a legacy system" to something that actually produces a usable, measurable result — a trained model with real metrics, or a working integration between systems that didn't talk to each other before.
+I like projects that go from "we have messy data / a legacy system" to something that actually produces a usable, measurable result, like a trained model with real metrics, or a working integration between systems that didn't talk to each other before.
 
 ## 🔬 Currently: MSc Dissertation
 
@@ -39,54 +39,65 @@ Researching and developing generative models for time series data, with the trai
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center"><b>Languages I work with</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,matlab,latex" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
+<p align="center"><b>AI, Backend & Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,dotnet,rabbitmq" />
+</p>
 
-**AI / Machine Learning**
+<p align="center"><b>Tools & OS</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TIME%20SERIES-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPLAINABLE%20AI%20(XAI)-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HIGH%20PERFORMANCE%20COMPUTING-D84315?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEMS%20INTEGRATION-37474F?style=for-the-badge" />
+</p>
 
-**Backend & Systems Integration**
-
-<p> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/SOAP%2FREST-005571?style=for-the-badge&logo=soap&logoColor=white" /> </p>
-
-**Tools**
-
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> </p>
-
-## 📌 Featured Projects
+## 💡 Core Competencies
 
 <table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/linho22w/mri-classification-deep-learning"><b>🧠 mri-classification-deep-learning</b></a>
-      <br/>
-      Automated brain tumor detection in MRI scans using fine-tuned CNNs (VGG16, Xception, InceptionResNetV2), Ensemble Learning and Grad-CAM explainability.
-      <br/><b>93% accuracy · 0.979 AUC</b> with the ensemble model.
-      <br/><sub>Python · TensorFlow · Keras</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/linho22w/IS_TP2_2425"><b>🔌 IS_TP2_2425</b></a>
-      <br/>
-      Expansão de um sistema de integração com módulo financeiro e streaming em tempo real: Web Services SOAP para análise financeira da produção e comunicação assíncrona via RabbitMQ.
-      <br/><sub>C# · ASP.NET · SOAP · RabbitMQ</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/linho22w/IS_TP1_2425"><b>⚙️ IS_TP1_2425</b></a>
-      <br/>
-      Integração entre um sistema desktop legado e uma API web para transferência automática de dados de produção, com captura de dados via SikuliX.
-      <br/><sub>C# · ASP.NET · SikuliX</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/linho22w/SD_TP1_2324"><b>🖥️ SD_TP1_2324</b></a>
-      <br/>
-      Sistema cliente/servidor para gestão de serviços e tarefas, com programas cliente e servidor comunicando em rede.
-      <br/><sub>C#</sub>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+**AI & Data**
+- Artificial Intelligence
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Explainable AI (XAI)
+- Mathematical Optimization
+- Linear Programming
+- Business Intelligence (BI)
+
+</td>
+<td valign="top" width="50%">
+
+**Software & Systems**
+- Systems Integration
+- Software Architecture & Design Patterns
+- Software Project Management
+- High-Performance Computing
+- Cryptography
+- Networking (Cisco Packet Tracer)
+- Entrepreneurship
+
+</td>
+</tr>
 </table>
 
 ## 📊 GitHub Stats
@@ -108,4 +119,3 @@ Open to internships, junior roles and collaborations in AI/ML and backend develo
     <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
