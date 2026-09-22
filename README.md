@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Paulo Amorim 👋</h1>
+<h1 align="center">Hi, I'm Paulo Amorim</h1>
 <h3 align="center">MSc Computer Engineering Student · AI &amp; Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Writing+my+MSc+dissertation+on+generative+AI;Generative+models+for+time+series+%2B+HPC;Turning+data+into+models+that+actually+generalize" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Training+generative+models+to+hallucinate+realistic+time+series;Parallelizing+everything+that+dares+to+be+slow;Fine-tuned+3+CNNs+so+you+do+not+have+to;Debugging+my+dissertation+one+epoch+at+a+time;My+GPU+runs+hotter+than+my+deadlines" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,12 +22,13 @@ pamorim@utad:~$ ./whoami.sh
   [ok]  role ............................. MSc Computer Engineering Student
   [ok]  focus ............................ Artificial Intelligence & Machine Learning
   [ok]  also builds ...................... backend systems & systems integration
+  [ok]  aiming for ........................ Data Science / AI Engineering / BI
   [..]  status ........................... writing my MSc dissertation
 ```
 
 ## 🧭 About Me
 
-I'm an MSc student in Informatics Engineering, currently in the final stretch of my degree writing my dissertation. My main interest is **AI/ML applied to real problems**, from medical imaging to generative modelling, but I also enjoy backend development and systems integration, which is where a good part of my academic project work has been.
+I'm an MSc student in Computer Engineering, currently in the final stretch of my degree writing my dissertation. My main interest is **AI/ML applied to real problems**, from medical imaging to generative modelling, but I also enjoy backend development and systems integration, which is where a good part of my academic project work has been.
 
 I like projects that go from "we have messy data / a legacy system" to something that actually produces a usable, measurable result, like a trained model with real metrics, or a working integration between systems that didn't talk to each other before.
 
@@ -110,7 +111,7 @@ Researching and developing generative models for time series data, with the trai
 
 ## 📫 Let's Connect
 
-Open to internships, junior roles and collaborations in AI/ML and backend development.
+Looking to grow into Data Science, AI Engineering or Business Intelligence roles, and open to internships and junior positions along the way.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pauloamorim22/">
