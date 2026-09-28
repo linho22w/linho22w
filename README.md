@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=820&lines=Training+generative+models+to+hallucinate+realistic+time+series;Parallelizing+everything+that+dares+to+be+slow;Fine-tuned+3+CNNs%2C+ask+me+why;Debugging+my+thesis+one+epoch+at+a+time;My+GPU+runs+hotter+than+my+deadlines;Optimizing+loss+functions%2C+and+my+sleep+schedule;Making+time+series+behave%2C+when+nothing+else+will" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=0969DA&background=00000000&center=true&vCenter=true&width=820&lines=Hallucinating+time+series+on+purpose;Parallelizing+whatever+dares+to+be+slow;Fine-tuned+3+CNNs%2C+ask+me+why;Debugging+my+thesis+one+epoch+at+a+time;My+GPU+runs+hotter+than+my+deadlines;Optimizing+loss+functions%2C+not+sleep;Making+time+series+behave%2C+somehow" alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=0969DA&background=00000000&center=true&vCenter=true&width=820&lines=Training+generative+models+to+hallucinate+realistic+time+series;Parallelizing+everything+that+dares+to+be+slow;Fine-tuned+3+CNNs%2C+ask+me+why;Debugging+my+thesis+one+epoch+at+a+time;My+GPU+runs+hotter+than+my+deadlines;Optimizing+loss+functions%2C+and+my+sleep+schedule;Making+time+series+behave%2C+when+nothing+else+will" alt="typing banner"/>
 </picture>
 
 <p align="center">
