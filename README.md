@@ -44,12 +44,12 @@ Researching and developing generative models for time series data, with the trai
 
 <p align="center"><b>Languages I work with</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,matlab,latex" />
+  <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,js,matlab,latex" />
 </p>
 
 <p align="center"><b>AI, Backend & Data</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,dotnet,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,dotnet,rabbitmq" />
 </p>
 
 <p align="center"><b>Tools & OS</b></p>
@@ -61,8 +61,16 @@ Researching and developing generative models for time series data, with the trai
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-37474F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POWER%20QUERY-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge" />
+</p>
+
+<p align="center"><b>Graphics & Web</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 </p>
 
 <br/>
@@ -71,10 +79,10 @@ Researching and developing generative models for time series data, with the trai
   <img src="https://img.shields.io/badge/REST%20APIs-2496ED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GENERATIVE%20AI-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TIME%20SERIES-1565C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EXPLAINABLE%20AI%20(XAI)-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/METAHEURISTICS-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HIGH%20PERFORMANCE%20COMPUTING-D84315?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SYSTEMS%20INTEGRATION-37474F?style=for-the-badge" />
 </p>
