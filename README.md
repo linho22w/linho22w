@@ -67,12 +67,6 @@ Researching and developing generative models for time series data, with the trai
   <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge" />
 </p>
 
-<p align="center"><b>Graphics & Web</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=threejs" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-</p>
-
 <br/>
 
 <p align="center">
