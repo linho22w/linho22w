@@ -44,7 +44,7 @@ Researching and developing generative models for time series data, with the trai
 
 <p align="center"><b>Languages I work with</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,js,matlab,latex" />
+  <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,js,matlab,latex" />
 </p>
 
 <p align="center"><b>AI, Backend & Data</b></p>
