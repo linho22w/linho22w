@@ -29,9 +29,9 @@ pamorim@utad:~$ ./whoami.sh
 
 ## 🧭 About Me
 
-I'm an MSc student in Computer Engineering, currently in the final stretch of my degree writing my dissertation. My main interest is **AI/ML applied to real problems**, from medical imaging to generative modelling, but I also enjoy backend development and systems integration, which is where a good part of my academic project work has been.
+I'm an MSc student in Computer Engineering at UTAD, focused on data and AI. I build relational databases, BI solutions and data integration pipelines (SQL Server, SSAS, Power BI, C#/.NET, RabbitMQ), and since 2024 I've done research on High-Performance Computing applied to AI, at EuroCC2 and now at INESC TEC. I'm currently in the final stretch of my degree, writing my dissertation.
 
-I like projects that go from "we have messy data / a legacy system" to something that actually produces a usable, measurable result, like a trained model with real metrics, or a working integration between systems that didn't talk to each other before.
+My main interest is **data engineering and AI/ML applied to real problems**, from medical imaging to generative modelling and system integration. I like projects that go from "we have messy data / a legacy system" to something that actually produces a usable, measurable result, like a trained model with real metrics, or a working integration between systems that didn't talk to each other before.
 
 ## 🔬 Currently: MSc Dissertation
 
