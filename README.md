@@ -106,7 +106,7 @@ Researching and developing generative models for time series data, with the trai
 - Software Architecture & Design Patterns
 - Software Project Management
 - High-Performance Computing
-- Cryptography
+- Cryptography & Information Security
 - Networking (Cisco Packet Tracer)
 - Entrepreneurship
 
