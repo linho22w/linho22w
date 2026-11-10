@@ -19,7 +19,7 @@
 pamorim@utad:~$ ./whoami.sh
 
   [ok]  name ............................. Paulo Amorim
-  [ok]  location.......................... Portugal, waiting for the model to finish training
+  [ok]  location.......................... Vila Real, Portugal
   [ok]  role ............................. MSc Computer Engineering Student
   [ok]  focus ............................ Data Engineering · AI & Machine Learning 
   [ok]  also builds ...................... backend systems & systems integration
@@ -96,7 +96,6 @@ Researching and developing generative models for time series data, with the trai
 - Generative AI & Time-Series Analysis
 - Explainable AI (XAI)
 - Mathematical Optimization & Linear Programming
-- Business Intelligence (BI)
 
 </td>
 <td valign="top" width="50%">
