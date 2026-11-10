@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paulo Amorim</h1>
-<h3 align="center">MSc Computer Engineering Student · AI &amp; Machine Learning</h3>
+<h3 align="center">MSc Computer Engineering Student · Data Engineering · AI &amp; Machine Learning</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=820&lines=Training+generative+models+to+hallucinate+realistic+time+series;Parallelizing+everything+that+dares+to+be+slow;Fine-tuned+3+CNNs%2C+ask+me+why;Debugging+my+thesis+one+epoch+at+a+time;My+GPU+runs+hotter+than+my+deadlines;Optimizing+loss+functions%2C+and+my+sleep+schedule;Making+time+series+behave%2C+when+nothing+else+will" />
@@ -21,9 +21,9 @@ pamorim@utad:~$ ./whoami.sh
   [ok]  name ............................. Paulo Amorim
   [ok]  location.......................... Portugal, waiting for the model to finish training
   [ok]  role ............................. MSc Computer Engineering Student
-  [ok]  focus ............................ Artificial Intelligence & Machine Learning
+  [ok]  focus ............................ Data Engineering · AI & Machine Learning 
   [ok]  also builds ...................... backend systems & systems integration
-  [ok]  aiming for ....................... Data Science / AI Engineering / BI
+  [ok]  aiming for ....................... Data Engineering / AI Engineering 
   [..]  status ........................... writing my MSc dissertation
 ```
 
@@ -87,14 +87,15 @@ Researching and developing generative models for time series data, with the trai
 <tr>
 <td valign="top" width="50%">
 
-**AI & Data**
+**Data & AI**
+- Data Engineering, ETL & Data Modeling
+- Business Intelligence (BI)
 - Artificial Intelligence
 - Deep Learning
 - Computer Vision
-- Generative AI
+- Generative AI & Time-Series Analysis
 - Explainable AI (XAI)
-- Mathematical Optimization
-- Linear Programming
+- Mathematical Optimization & Linear Programming
 - Business Intelligence (BI)
 
 </td>
@@ -115,7 +116,7 @@ Researching and developing generative models for time series data, with the trai
 
 ## 📫 Let's Connect
 
-Looking to grow into Data Science, AI Engineering or Business Intelligence roles, and open to internships and junior positions along the way.
+Looking to grow into Data Engineering and AI Engineering roles, and open to internships and junior positions along the way.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pauloamorim22/">
